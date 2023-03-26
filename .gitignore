@@ -103,6 +103,7 @@ nb-configuration.xml
 .code-workspace
 .history/
 node_modules/
+build/
 
 ##############################
 ## OS X
